@@ -11,8 +11,8 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 public class AwsSesConfig {
-    String accessKey = "AKIAUR2QHIWAO4JKR2O6";
-    String secretKey = "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";
+    String accessKey = "xxxxxxxxx";
+    String secretKey = "xxxxxxx";
 
 
     // Create AWS credentials using access key and secret key
